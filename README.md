@@ -2,28 +2,41 @@
 
 <br /><br /><br /><br />
 
-# ARCHER2 course template (month YEAR)
+# ARCHER2 Advanced OpenMP course
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Course description...
+OpenMP is the industry standard for shared-memory programming, which enables serial programs to be parallelised using compiler directives.This course is aimed at programmers seeking to deepen their understanding of OpenMP and explore some of its more recent and advanced features.
+
+This course will cover topics including nested parallelism, OpenMP tasks, the OpenMP memory model, performance tuning, hybrid OpenMP + MPI, accelerator offloading and recently added features in OpenMP.
+
+Hands-on practical programming exercises make up a significant, and integral, part of this course.
+
+Attendees should be familiar with the basics of OpenMP, including parallel regions, data scoping, work sharing directives and synchronisation constructs. Access will be given to appropriate hardware for all the exercises, although many of them can also be performed on a standard Linux laptop.
 
 ## Course timetable
 
 ### Day 1
 
- * 14:00 Welcome and overview
- * 14:10 [...]
- * 16:30 Close
+* 09:00 - 11:00 Lectures: Tasks, Nested parallelism, Memory model
+* 11:00 - 11:30  Break
+* 11:30 - 13:00  Practicals: Mandelbrot with nested loops, collapse, and tasks
+* 13:00 - 14:00  Lunch
+* 14:00 - 15:30  Lectures: OpenMP tips, tricks and pitfalls, Performance issues 
+* 15:30 - 16:00  Break
+* 16:00 - 17:00 Practical: Performance tuning 
+
 
 ### Day 2
 
+* 09:00 - 11:00 Lectures: OpenMP + MPI
+* 11:00 - 11:30 Break
+* 11:30 - 13:00 Practicals: OpenMP + MPI
+* 13:00 - 14:00  Lunch
+* 14:00 - 15:30 OpenMP newer features, target offload 
+* 15:30 Break
+* 16:00 - 17:00  Practicals – wrap-up (if required)
 
- * 14:00 Welcome and recap
- * 14:10 [...]
- * 15:00 Break
- * 15:30 [...]
- * 16:30 Close
 
 ## Course requirements
 
