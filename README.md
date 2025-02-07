@@ -16,26 +16,13 @@ Attendees should be familiar with the basics of OpenMP, including parallel regio
 
 ## Course timetable
 
-### Day 1
+* Tues 18th  (10:00 - 12:00) Tasks, Nested parallelism, Memory model
 
-* 09:00 - 11:00 Lectures: Tasks, Nested parallelism, Memory model
-* 11:00 - 11:30  Break
-* 11:30 - 13:00  Practicals: Mandelbrot with nested loops, collapse, and tasks
-* 13:00 - 14:00  Lunch
-* 14:00 - 15:30  Lectures: OpenMP tips, tricks and pitfalls, Performance issues 
-* 15:30 - 16:00  Break
-* 16:00 - 17:00 Practical: Performance tuning 
+* Thur 20th (10:00 - 12:00) OpenMP tips, tricks and pitfalls, Performance issues 
 
+* Tues 25th  (10:00 - 12:00) OpenMP + MPI 
 
-### Day 2
-
-* 09:00 - 11:00 Lectures: OpenMP + MPI
-* 11:00 - 11:30 Break
-* 11:30 - 13:00 Practicals: OpenMP + MPI
-* 13:00 - 14:00  Lunch
-* 14:00 - 15:30 OpenMP newer features, target offload 
-* 15:30 Break
-* 16:00 - 17:00  Practicals – wrap-up (if required)
+* Thur 27th (10:00 - 12:00) Newer features in OpenMP 
 
 
 ## Course requirements
