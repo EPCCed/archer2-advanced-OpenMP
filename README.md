@@ -8,7 +8,7 @@
 
 OpenMP is the industry standard for shared-memory programming, which enables serial programs to be parallelised using compiler directives.This course is aimed at programmers seeking to deepen their understanding of OpenMP and explore some of its more recent and advanced features.
 
-This course will cover topics including nested parallelism, OpenMP tasks, the OpenMP memory model, performance tuning, hybrid OpenMP + MPI, accelerator offloading and recently added features in OpenMP.
+This course will cover topics including nested parallelism, OpenMP tasks, the OpenMP memory model, performance tuning, hybrid OpenMP + MPI and recently added features in OpenMP.
 
 Hands-on practical programming exercises make up a significant, and integral, part of this course.
 
