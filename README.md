@@ -16,13 +16,13 @@ Attendees should be familiar with the basics of OpenMP, including parallel regio
 
 ## Course timetable
 
-* Tues 18th  (10:00 - 12:00) Tasks, Nested parallelism, Memory model
+* Tues 18th  (10:00 - 12:00) Tasks, Nested parallelism
 
 * Thur 20th (10:00 - 12:00) OpenMP tips, tricks and pitfalls, Performance issues 
 
 * Tues 25th  (10:00 - 12:00) OpenMP + MPI 
 
-* Thur 27th (10:00 - 12:00) Newer features in OpenMP 
+* Thur 27th (10:00 - 12:00) Memory model, Newer features in OpenMP 
 
 
 ## Course requirements
